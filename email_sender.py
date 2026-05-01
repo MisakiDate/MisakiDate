@@ -1,5 +1,3 @@
-$ cat /home/user/MisakiDate/email_sender.py
-
 import os
 import random
 import smtplib
@@ -184,7 +182,9 @@ def send_daily_quote() -> None:
     msg.attach(MIMEText(build_plain(quotes, story), "plain"))
     msg.attach(MIMEText(build_html(quotes, story), "html"))
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.ehlo()
+        server.starttls()
         server.login(smtp_user, smtp_password)
         server.sendmail(smtp_user, RECIPIENT, msg.as_string())
 

@@ -1,5 +1,3 @@
-$ cat /home/user/MisakiDate/quotes.py
-
 import random
 
 # type: "quote" | "story"
