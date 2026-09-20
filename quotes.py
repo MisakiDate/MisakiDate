@@ -783,6 +783,815 @@ ITEMS = [
         "tone": "both",
         "theme": "intellectual perseverance",
     },
+
+    # ── NEW STORIES ──────────────────────────────────────────────────────────
+    {
+        "type": "story",
+        "text": (
+            "Wilma Rudolph contracted polio as a child and wore a metal brace on her leg until she was twelve. "
+            "Doctors told her she would never walk normally. "
+            "She became the fastest woman in the world. "
+            "At the 1960 Rome Olympics she won three gold medals in sprinting — the first American woman to do so. "
+            "She said: 'The doctors told me I would never walk, but my mother told me I would. "
+            "I believed my mother.' "
+            "Choose carefully whose voice you let define the possible."
+        ),
+        "author": "Wilma Rudolph, three-time Olympic gold medalist",
+        "tone": "warm",
+        "theme": "resilience",
+    },
+    {
+        "type": "story",
+        "text": (
+            "William Kamkwamba was 14 years old when a famine forced him to drop out of school in Malawi. "
+            "He could no longer afford the $80 annual fee. "
+            "He walked to the local library and taught himself physics and engineering from donated textbooks. "
+            "Using scrap metal, bicycle parts, and wood from the blue gum trees, he built a windmill "
+            "that brought electricity to his family's home for the first time. "
+            "He was eventually discovered, sponsored through school, and earned a degree from Dartmouth. "
+            "The library was free. The decision to walk in was everything."
+        ),
+        "author": "William Kamkwamba, engineer and author of The Boy Who Harnessed the Wind",
+        "tone": "both",
+        "theme": "hard work",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Grace Hopper was a rear admiral in the US Navy and one of the first programmers of the Harvard Mark I computer. "
+            "When a moth caused a relay failure, she taped it into the logbook and wrote 'first actual case of bug being found.' "
+            "She coined the term 'debugging.' "
+            "She also invented the first compiler — a program that translates human-readable code into machine language — "
+            "when colleagues insisted it was impossible for a machine to translate language. "
+            "'The most dangerous phrase in the language is: we've always done it this way,' she said. "
+            "Question the obvious. That is where the work lives."
+        ),
+        "author": "Grace Hopper, computer scientist and US Navy Rear Admiral",
+        "tone": "sharp",
+        "theme": "intellectual perseverance",
+    },
+    {
+        "type": "story",
+        "text": (
+            "David Bowie reinvented himself so thoroughly and so many times "
+            "that no single version of him became a cage. "
+            "Ziggy Stardust. Aladdin Sane. The Thin White Duke. Major Tom. "
+            "Each was a full commitment — a new sound, new look, new collaborators. "
+            "He said: 'I don't know where I'm going from here, but I promise it won't be boring.' "
+            "He kept making new music until 69, releasing Blackstar two days before he died of cancer — "
+            "a final album he had been quietly working on while terminally ill. "
+            "The work was the answer to the fear."
+        ),
+        "author": "David Bowie, musician",
+        "tone": "both",
+        "theme": "creativity",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Agatha Christie had dyslexia and struggled painfully in school. "
+            "She taught herself to type by hunting letters one at a time. "
+            "She is the best-selling fiction writer in history — only the Bible and Shakespeare have sold more. "
+            "She wrote 66 detective novels and 14 short story collections, often while raising a daughter alone. "
+            "She said she was simply interested in the puzzle of how things could go wrong, "
+            "and curious enough to follow it to the end. "
+            "Curiosity outlasts talent every time."
+        ),
+        "author": "Agatha Christie, best-selling novelist of all time",
+        "tone": "warm",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Donna Strickland won the Nobel Prize in Physics in 2018 for her work on laser pulses. "
+            "At the time of the announcement, she was not a full professor — just an associate professor "
+            "at the University of Waterloo. "
+            "Before the Nobel, Wikipedia had rejected a page about her because her work was deemed 'not notable enough.' "
+            "She is only the third woman in history to win the Nobel Prize in Physics. "
+            "The institution's assessment of your status has nothing to do with the quality of your work."
+        ),
+        "author": "Donna Strickland, Nobel Laureate in Physics",
+        "tone": "sharp",
+        "theme": "intellectual perseverance",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Rita Levi-Montalcini was barred from university in 1938 under Mussolini's racial laws. "
+            "She set up a small laboratory in her bedroom and continued her neuroscience research using chicken embryos. "
+            "During the Nazi occupation of Florence she conducted experiments while hiding from the Gestapo. "
+            "She won the Nobel Prize in Physiology or Medicine in 1986, at age 77. "
+            "She continued going to her lab every day until she was 100. "
+            "She died at 103. "
+            "'Above all, don't fear difficult moments,' she said. 'The best comes from them.'"
+        ),
+        "author": "Rita Levi-Montalcini, Nobel Laureate in Physiology or Medicine",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Bob Ross spent 20 years in the US Air Force rising to master sergeant — "
+            "a job, he said, that required him to 'be mean, make people scrub toilets, clean the latrine.' "
+            "He vowed if he ever left, he would never scream at anyone again. "
+            "He left. He became the soft-spoken painting instructor who told 3.7 million weekly viewers "
+            "there were no mistakes, only happy accidents. "
+            "He filmed 403 episodes of The Joy of Painting and donated almost every canvas. "
+            "The discipline to be gentle is harder than the discipline to be hard."
+        ),
+        "author": "Bob Ross, painter and television host",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Isabel Allende wrote her first novel as a letter to her dying grandfather in Chile, "
+            "while living in exile in Venezuela. She had no intention of writing a novel. "
+            "She just didn't want him to die before she could tell him things. "
+            "The letter grew into The House of the Spirits, one of the defining works of Latin American literature. "
+            "She has since written 26 books. She starts every new one on January 8th — the same date she started that letter. "
+            "Ritual is how you honor what matters."
+        ),
+        "author": "Isabel Allende, author of The House of the Spirits",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "story",
+        "text": (
+            "David Goggins weighed 300 pounds, was working as a pest exterminator, "
+            "and had failed Navy SEAL training twice. "
+            "A doctor told him he had a congenital heart defect and shouldn't attempt it again. "
+            "He attempted it again. He passed. "
+            "He later ran 100-mile ultramarathons, set a world record for pull-ups (4,030 in 17 hours), "
+            "and finished the Badwater 135 — considered the world's toughest foot race — multiple times. "
+            "'The most important conversations you'll ever have,' he says, 'are the ones you have with yourself.' "
+            "The story you tell yourself about what you can do becomes the ceiling. Change the story."
+        ),
+        "author": "David Goggins, ultramarathon runner and retired Navy SEAL",
+        "tone": "sharp",
+        "theme": "hard work",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Astrid Lindgren invented Pippi Longstocking in 1941 to entertain her daughter Karin, "
+            "who was home sick with pneumonia and asked for a story about a girl who could do anything. "
+            "Lindgren told her about Pippi — the strongest girl in the world, who lived alone, "
+            "had a horse on her porch, and answered to no one. "
+            "When she submitted the manuscript, it was initially rejected. "
+            "A different publisher accepted it. It became one of the most beloved children's books ever written. "
+            "The best ideas often start as a gift for someone you love."
+        ),
+        "author": "Astrid Lindgren, author of Pippi Longstocking",
+        "tone": "warm",
+        "theme": "creativity",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Hedy Lamarr was one of the biggest Hollywood stars of the 1940s. "
+            "What the studios did not know was that she spent her nights inventing. "
+            "Working with composer George Antheil, she co-invented a frequency-hopping signal "
+            "to prevent torpedo guidance systems from being jammed during World War II. "
+            "The military ignored it. The patent expired. "
+            "Decades later, her invention became the foundation for Wi-Fi, GPS, and Bluetooth. "
+            "She never received a cent. 'Films have a certain place in a certain time period,' she said. "
+            "'Technology is forever.'"
+        ),
+        "author": "Hedy Lamarr, actress and inventor",
+        "tone": "both",
+        "theme": "intellectual perseverance",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Roald Amundsen prepared for years to be the first to reach the South Pole. "
+            "He studied Inuit survival techniques. He trained with sled dogs. He chose skiers. "
+            "His rival Robert Scott brought motorized sleds, horses, and inadequate cold-weather gear. "
+            "Amundsen arrived at the pole on December 14, 1911. "
+            "He left a tent and a note for Scott, who arrived 33 days later. "
+            "Scott and his entire team died on the return journey. "
+            "Preparation is not the opposite of courage. It is courage made practical."
+        ),
+        "author": "Roald Amundsen, first person to reach the South Pole",
+        "tone": "sharp",
+        "theme": "hard work",
+    },
+    {
+        "type": "story",
+        "text": (
+            "James Baldwin left America in 1948 because, he said, it was either leave or be destroyed by it. "
+            "He wrote from Paris — broke, cold, sometimes hungry — "
+            "and produced Go Tell It on the Mountain, Giovanni's Room, and Notes of a Native Son. "
+            "He came back for the Civil Rights Movement, spoke alongside Martin Luther King, "
+            "and kept writing through grief, rage, and love. "
+            "'Not everything that is faced can be changed,' he said, "
+            "'but nothing can be changed until it is faced.' "
+            "The writing is the facing."
+        ),
+        "author": "James Baldwin, novelist and activist",
+        "tone": "both",
+        "theme": "courage",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Yayoi Kusama began having hallucinations as a child — flowers speaking to her, "
+            "dots multiplying across her vision. "
+            "She turned the visions into art: dots, nets, infinity rooms. "
+            "At 27 she moved to New York with almost no money and built a reputation in the avant-garde scene. "
+            "At 44, she checked herself voluntarily into a psychiatric hospital in Tokyo. "
+            "She has lived there ever since — and walks to her studio across the street every day to make art. "
+            "'I fight pain, anxiety, and fear every day,' she says, 'and the only method I have found that relieves it is to keep creating.' "
+            "The work is not a distraction from the struggle. It is the response to it."
+        ),
+        "author": "Yayoi Kusama, artist",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Wangari Maathai was told by the Kenyan government, by foreign donors, and by her own husband "
+            "that planting trees was too small an idea to matter. "
+            "She started the Green Belt Movement in 1977 with a group of rural women. "
+            "They planted trees — one at a time, across decades. "
+            "By 2004, they had planted 47 million trees and restored entire ecosystems. "
+            "She was arrested, beaten, imprisoned. "
+            "That year she became the first African woman and first environmentalist to win the Nobel Peace Prize. "
+            "Big enough is whatever you plant and keep watering."
+        ),
+        "author": "Wangari Maathai, Nobel Peace Prize Laureate",
+        "tone": "both",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Ruth Bader Ginsburg graduated top of her class from Harvard Law School "
+            "and tied for first at Columbia Law. "
+            "Not a single New York law firm would hire her — she was a woman, a mother, and Jewish. "
+            "A professor had to personally beg a judge to take her as a clerk. "
+            "She spent the next decades dismantling sex discrimination law one case at a time, "
+            "arguing before the Supreme Court. She later joined it. "
+            "She worked on opinions hours after chemotherapy. She did twenty push-ups a day at 84. "
+            "'Fight for the things you care about,' she said, 'but do it in a way that will lead others to join you.'"
+        ),
+        "author": "Ruth Bader Ginsburg, US Supreme Court Justice",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Tererai Trent grew up in rural Zimbabwe without access to school. "
+            "She was married at 11, had three children by 18. "
+            "A visiting American development worker asked her what her dreams were. "
+            "She wrote them on a piece of paper, put them in a tin, and buried the tin in the earth. "
+            "'I will go to America. I will get a bachelor's degree. A master's. A PhD.' "
+            "She achieved every one. When she did, she went back to Zimbabwe and dug up the tin. "
+            "She has since built schools there. "
+            "Write the dream down. Then get started."
+        ),
+        "author": "Tererai Trent, educator and activist",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Octavia Butler grew up poor in Pasadena, was told she had no writing talent, "
+            "and was working a series of menial jobs when she began waking at 3am to write before her shift. "
+            "She taped a note to her typewriter: 'I will be a bestselling writer. I will.' "
+            "She became one of the most celebrated science fiction writers in history, "
+            "winning both the Hugo and Nebula awards — the genre's highest honors. "
+            "She was the first science fiction writer to receive the MacArthur 'Genius' Fellowship. "
+            "'First forget inspiration,' she said. 'Habit is more dependable. Habit will sustain you whether you're inspired or not.'"
+        ),
+        "author": "Octavia Butler, science fiction author",
+        "tone": "sharp",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Isaac Asimov wrote or edited over 500 books in his lifetime — "
+            "across science fiction, history, chemistry, the Bible, Shakespeare, and humor. "
+            "He wrote every single day, including weekends and holidays. "
+            "When asked how he produced so much, he said: "
+            "'I don't know. I don't think about it. Writing is my only recreation.' "
+            "He wasn't prolific because he was disciplined. He was prolific because writing was where he wanted to be. "
+            "Find the work that doesn't feel like escaping from work. Do it every day."
+        ),
+        "author": "Isaac Asimov, author of over 500 books",
+        "tone": "both",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Roald Dahl wrote in a small brick shed at the bottom of his garden — same shed, same chair, same yellow legal pads, "
+            "same six pencils sharpened to exactly the same length each morning. "
+            "He wrote from 10am to 12pm, then again from 4pm to 6pm, every day. "
+            "The children who read his books had no idea they were made in a garden shed, "
+            "by a man who refused to start until conditions were exactly as he required. "
+            "'A writer of fiction,' he said, 'lives in fear. Each new day demands new ideas.' "
+            "The ritual was the answer to the fear."
+        ),
+        "author": "Roald Dahl, author of Charlie and the Chocolate Factory",
+        "tone": "both",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Pele grew up so poor in Bauru, Brazil that he could not afford a football. "
+            "He played with a grapefruit stuffed into a sock, or a ball made of rags. "
+            "He was 15 when he joined Santos FC. At 17, he became the youngest player "
+            "to score in a World Cup final. He won the World Cup three times. "
+            "He is still the only player to do so. "
+            "He said the difference between success and failure was not talent — "
+            "it was whether you kept showing up after you failed. "
+            "You cannot stop a person who will not stop."
+        ),
+        "author": "Pelé, three-time FIFA World Cup champion",
+        "tone": "both",
+        "theme": "hard work",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Wislawa Szymborska worked as a poetry editor at a Krakow literary journal for decades, "
+            "virtually unknown outside Poland. "
+            "She published fewer than 400 poems in her entire lifetime — "
+            "tearing up anything she felt did not meet her standard. "
+            "In 1996, she won the Nobel Prize in Literature. "
+            "She said she threw away far more than she kept. "
+            "'I don't know,' she would say whenever asked a question — and meant it as a philosophy. "
+            "The willingness not to know, to keep questioning, was what made the poems worth anything."
+        ),
+        "author": "Wislawa Szymborska, Nobel Laureate in Literature",
+        "tone": "warm",
+        "theme": "intellectual perseverance",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Langston Hughes discovered he wanted to write poetry at 13, "
+            "after his teacher told him to read Carl Sandburg. "
+            "He worked as a busboy in a Washington D.C. hotel when he was 24, "
+            "still unknown. One evening he left three of his poems beside the plate "
+            "of the famous poet Vachel Lindsay, who was dining there. "
+            "Lindsay read them aloud at a public reading that night and announced he had discovered a genius. "
+            "Hughes woke up famous. "
+            "He spent the next five decades writing the Harlem Renaissance into existence. "
+            "Leave the work where it can be found."
+        ),
+        "author": "Langston Hughes, poet of the Harlem Renaissance",
+        "tone": "both",
+        "theme": "courage",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Lynn Conway was fired from IBM in 1968 after announcing she was a transgender woman. "
+            "She was erased from her own research record. She started over, completely, under a new name. "
+            "She went on to co-develop the VLSI design rules that made modern microchip manufacturing possible — "
+            "the foundation of every computer chip built in the last 40 years. "
+            "Her contributions were uncredited for decades. "
+            "She said: 'People often underestimate the ability of individuals to reinvent themselves "
+            "and to be transformed by new experiences.' "
+            "The reinvention was not a setback. It was the work."
+        ),
+        "author": "Lynn Conway, computer scientist and VLSI pioneer",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Wole Soyinka was imprisoned in solitary confinement for 22 months during the Nigerian Civil War — "
+            "in a cell so small he could not stand upright. "
+            "He was given no books, no paper, no contact with other humans. "
+            "He scratched notes onto scraps of toilet paper and between the lines of a Bible "
+            "that was eventually smuggled to him. "
+            "He kept writing in his head even when he had nothing to write on. "
+            "He was released, the notes were recovered, and he became the first African to win the Nobel Prize in Literature. "
+            "'You cannot imprison a mind that refuses to be imprisoned.'"
+        ),
+        "author": "Wole Soyinka, Nobel Laureate in Literature",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Siddharth Mukherjee wrote The Emperor of All Maladies — "
+            "a biography of cancer that won the Pulitzer Prize — "
+            "while completing a hematology-oncology fellowship at Dana-Farber Cancer Institute. "
+            "He was working 80-hour weeks in the hospital. He wrote on nights and weekends for four years. "
+            "He said the book was a way of understanding the patients he was losing — "
+            "a way to sit with the disease long enough to see it clearly. "
+            "The hardest work often grows out of the hardest circumstances. "
+            "Let the question you cannot stop thinking about become the project."
+        ),
+        "author": "Siddharth Mukherjee, oncologist and Pulitzer Prize winner",
+        "tone": "both",
+        "theme": "intellectual perseverance",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Niklas Luhmann was a German sociologist who had no formal training in the discipline. "
+            "Over 40 years, he built a Zettelkasten — a slip-box of interconnected handwritten notes — "
+            "containing 90,000 index cards. "
+            "Each idea was linked to others; none was isolated. "
+            "From this system he produced 70 books and 400 scholarly articles. "
+            "When asked how he was so productive, he said: 'I never force myself to do anything I don't feel like doing. "
+            "I only do what comes easily. I only write when I immediately know how to do it. "
+            "If I falter for a moment, I put the matter aside and do something else.' "
+            "The system did the heavy lifting. He just showed up and followed the connections."
+        ),
+        "author": "Niklas Luhmann, sociologist",
+        "tone": "warm",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Anton Chekhov practiced medicine as a country doctor his entire adult life "
+            "while writing plays and short stories that would redefine both forms. "
+            "He said: 'Medicine is my lawful wife and literature is my mistress.' "
+            "He visited the penal colony on Sakhalin Island at his own expense to document the conditions of prisoners, "
+            "walking 4,000 miles across Siberia to get there. "
+            "He died of tuberculosis at 44 — and in that time produced work that is still studied and performed worldwide. "
+            "'If you are afraid of loneliness, do not marry,' he wrote. "
+            "'If you are afraid of the work, do not begin. If you begin, do not stop.'"
+        ),
+        "author": "Anton Chekhov, playwright and short story writer",
+        "tone": "both",
+        "theme": "hard work",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Kobe Bryant arrived at the gym at 4am. His trainer, Rob Roms, once showed up for a 6am session "
+            "to find Kobe already drenched in sweat — he had been there since 4. "
+            "He asked Kobe how many shots he had made that morning. "
+            "Kobe said: '800.' "
+            "He won five NBA championships. He was still watching game film on his phone when a helicopter "
+            "took him to his daughter's basketball game on the morning he died. "
+            "'Those times when you get up early and work hard, those times when you stay up late "
+            "and work hard — that is actually the dream.' "
+            "The work is not the path to the dream. The work is the dream."
+        ),
+        "author": "Kobe Bryant, five-time NBA champion",
+        "tone": "sharp",
+        "theme": "consistency",
+    },
+    {
+        "type": "story",
+        "text": (
+            "Michael Jordan was cut from his high school varsity team as a sophomore. "
+            "He went home, locked himself in his room, and cried. "
+            "Then he used the embarrassment as fuel — arriving before anyone else, staying later. "
+            "He said he pictured that rejection list every time he didn't want to train. "
+            "He won six NBA championships and five MVP awards. "
+            "He later said: 'I've failed over and over and over again in my life. And that is why I succeed.' "
+            "Failure is not the opposite of success. It is the raw material."
+        ),
+        "author": "Michael Jordan, six-time NBA champion",
+        "tone": "both",
+        "theme": "resilience",
+    },
+
+    # ── NEW QUOTES ───────────────────────────────────────────────────────────
+    {
+        "type": "quote",
+        "text": "Discipline is choosing between what you want now and what you want most.",
+        "author": "Augusta F. Kantra",
+        "tone": "sharp",
+        "theme": "consistency",
+    },
+    {
+        "type": "quote",
+        "text": "The difference between ordinary and extraordinary is that little 'extra.'",
+        "author": "Jimmy Johnson",
+        "tone": "sharp",
+        "theme": "hard work",
+    },
+    {
+        "type": "quote",
+        "text": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle",
+        "tone": "warm",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "tone": "both",
+        "theme": "self-doubt",
+    },
+    {
+        "type": "quote",
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson",
+        "tone": "warm",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+        "author": "Maya Angelou",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "One day or day one. You decide.",
+        "author": "Paulo Coelho",
+        "tone": "sharp",
+        "theme": "finishing",
+    },
+    {
+        "type": "quote",
+        "text": "The only way out is through.",
+        "author": "Robert Frost",
+        "tone": "sharp",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "Small steps in the right direction can turn out to be the biggest step of your life.",
+        "author": "Ancient wisdom",
+        "tone": "warm",
+        "theme": "consistency",
+    },
+    {
+        "type": "quote",
+        "text": "If you want to fly, you have to give up everything that weighs you down.",
+        "author": "Toni Morrison",
+        "tone": "both",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "No matter how you feel, get up, dress up, show up, and never give up.",
+        "author": "Regina Brett",
+        "tone": "sharp",
+        "theme": "consistency",
+    },
+    {
+        "type": "quote",
+        "text": "Turn your wounds into wisdom.",
+        "author": "Oprah Winfrey",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+        "author": "A.A. Milne, Winnie the Pooh",
+        "tone": "warm",
+        "theme": "self-doubt",
+    },
+    {
+        "type": "quote",
+        "text": "The brick walls are there for a reason. They're not there to keep us out. They're there to give us a chance to show how badly we want something.",
+        "author": "Randy Pausch, The Last Lecture",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "If you're presenting yourself with confidence, you can pull off pretty much anything.",
+        "author": "Katy Perry",
+        "tone": "sharp",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "Nothing in life is to be feared, it is only to be understood.",
+        "author": "Marie Curie",
+        "tone": "both",
+        "theme": "intellectual perseverance",
+    },
+    {
+        "type": "quote",
+        "text": "We keep moving forward, opening new doors, and doing new things, because we're curious.",
+        "author": "Walt Disney",
+        "tone": "warm",
+        "theme": "creativity",
+    },
+    {
+        "type": "quote",
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "I am not a product of my circumstances. I am a product of my decisions.",
+        "author": "Stephen Covey",
+        "tone": "sharp",
+        "theme": "hard work",
+    },
+    {
+        "type": "quote",
+        "text": "The question isn't who is going to let me; it's who is going to stop me.",
+        "author": "Ayn Rand",
+        "tone": "sharp",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "In order to carry a positive action we must develop here a positive vision.",
+        "author": "Dalai Lama",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "It is not what happens to you, but how you respond to it that matters.",
+        "author": "Epictetus",
+        "tone": "sharp",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "The impediment to action advances action. What stands in the way becomes the way.",
+        "author": "Marcus Aurelius",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+        "author": "Marcus Aurelius",
+        "tone": "warm",
+        "theme": "rest & recovery",
+    },
+    {
+        "type": "quote",
+        "text": "You have survived every difficult day so far. You are 100% successful at getting through hard days.",
+        "author": "Anonymous",
+        "tone": "warm",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "The first step is you have to say that you can.",
+        "author": "Will Smith",
+        "tone": "sharp",
+        "theme": "self-doubt",
+    },
+    {
+        "type": "quote",
+        "text": "If you're going to be thinking anyway, you might as well think big.",
+        "author": "Donald Trump... originally. But the sentiment is universal.",
+        "tone": "sharp",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "Tough times never last, but tough people do.",
+        "author": "Robert H. Schuller",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.",
+        "author": "Rocky Balboa (Sylvester Stallone)",
+        "tone": "sharp",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "The best way to predict the future is to create it.",
+        "author": "Abraham Lincoln",
+        "tone": "sharp",
+        "theme": "finishing",
+    },
+    {
+        "type": "quote",
+        "text": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "tone": "warm",
+        "theme": "self-doubt",
+    },
+    {
+        "type": "quote",
+        "text": "We generate fears while we sit. We overcome them by action.",
+        "author": "Dr. Henry Link",
+        "tone": "sharp",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+        "author": "Jamie Paolinetti",
+        "tone": "warm",
+        "theme": "creativity",
+    },
+    {
+        "type": "quote",
+        "text": "Whatever you are, be a good one.",
+        "author": "Abraham Lincoln",
+        "tone": "sharp",
+        "theme": "hard work",
+    },
+    {
+        "type": "quote",
+        "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "author": "Mother Teresa",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+        "author": "Franklin D. Roosevelt",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "If you look at what you have in life, you'll always have more. If you look at what you don't have, you'll never have enough.",
+        "author": "Oprah Winfrey",
+        "tone": "warm",
+        "theme": "purpose",
+    },
+    {
+        "type": "quote",
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+        "author": "William Butler Yeats",
+        "tone": "sharp",
+        "theme": "finishing",
+    },
+    {
+        "type": "quote",
+        "text": "The secret of success is to do the common things uncommonly well.",
+        "author": "John D. Rockefeller",
+        "tone": "sharp",
+        "theme": "hard work",
+    },
+    {
+        "type": "quote",
+        "text": "There is nothing permanent except change.",
+        "author": "Heraclitus",
+        "tone": "both",
+        "theme": "resilience",
+    },
+    {
+        "type": "quote",
+        "text": "The two hardest things to handle in life are failure and success.",
+        "author": "Anonymous",
+        "tone": "both",
+        "theme": "self-doubt",
+    },
+    {
+        "type": "quote",
+        "text": "I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.",
+        "author": "Robert H. Schuller",
+        "tone": "sharp",
+        "theme": "courage",
+    },
+    {
+        "type": "quote",
+        "text": "Life is what we make it, always has been, always will be.",
+        "author": "Grandma Moses",
+        "tone": "warm",
+        "theme": "purpose",
+    },
 ]
 
 
